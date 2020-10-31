@@ -7,23 +7,23 @@ const OtherSkills = () => {
             <div className="list">
                 <ul>
                     <li><i className="fas fa-check-square">
-                        Anglais Courant</i></li>
+                        <span>Anglais Courant</span></i></li>
                     <li><i className="fas fa-check-square">
-                        GitHub</i></li>
+                        <span>GitHub</span></i></li>
                     <li><i className="fas fa-check-square">
-                        SEO</i></li>
+                        <span>SEO</span></i></li>
                     <li><i className="fas fa-check-square">
-                        Méthodes agiles</i></li>
+                        <span>Méthodes agiles</span></i></li>
                 </ul>
                 <ul>
                     <li><i className="fas fa-check-square">
-                        Figma</i></li>
+                        <span>Figma</span></i></li>
                     <li><i className="fas fa-check-square">
-                        Design</i></li>
+                        <span>Design</span></i></li>
                     <li><i className="fas fa-check-square">
-                        Photoshop</i></li>
+                        <span>Photoshop</span></i></li>
                     <li><i className="fas fa-check-square">
-                        Montage vidéos</i></li>
+                        <span>Montage vidéos</span></i></li>
                 </ul>
             </div>
         </div>
